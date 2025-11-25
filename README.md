@@ -9,5 +9,5 @@ Automações e utilitários para diagramação no InDesign.
 4. Cole os scripts dentro dessa pasta.
 
 ## Lista de Scripts
-* **_CamadasLinks.jsx:** Automatiza o controle de visibilidade de camadas em arquivos importados (PSD, AI, PDF). Permite selecionar quais layers do arquivo original devem aparecer no layout do InDesign sem precisar abrir o arquivo nativo ou acessar o menu "Object Layer Options" individualmente.
-* * **ResetLinkScale.jsx:** Redefine a escala horizontal e vertical dos links selecionados para exatos 100%. Corrige distorções acidentais e padroniza o tamanho das imagens importadas com um único clique.
+* **LinkLayerManager.jsx:** Automatiza o controle de visibilidade de camadas em arquivos importados (PSD, AI, PDF). Permite selecionar quais layers do arquivo original devem aparecer no layout do InDesign sem precisar abrir o arquivo nativo ou acessar o menu "Object Layer Options" individualmente.
+* **ResetLinkScale.jsx:** Redefine a escala horizontal e vertical dos links selecionados para exatos 100%. Corrige distorções acidentais e padroniza o tamanho das imagens importadas com um único clique.
